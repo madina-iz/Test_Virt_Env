@@ -8,6 +8,7 @@ numpy = "*"
 pandas = "*"
 notebook = "*"
 scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
